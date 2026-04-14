@@ -16,11 +16,15 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ![ERD](erd.png)
 
+This ERD represents the overall structure of the database, showing the relationships between key entities such as transactions, stations, ticket types, and payment methods. It ensures proper data organization and supports efficient querying.
+
 ---
 
 ### 🔹 Schema Mapping
 
 ![Schema](schema.png)
+
+The schema mapping translates the ERD into actual database tables with defined primary and foreign keys. It ensures data integrity and enables efficient joins across all related tables.
 
 ---
 
@@ -28,11 +32,15 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ![SQL](sql.png)
 
+SQL was used to create the database structure, define relationships, and perform data extraction and transformation. The queries support analysis by preparing clean and structured datasets.
+
 ---
 
 ### 🔹 Data Preview
 
 ![Table](table.png)
+
+This preview shows a sample of the dataset after cleaning and transformation. It includes key fields such as route, ticket type, payment method, and pricing, ready for analysis.
 
 ---
 
@@ -42,10 +50,7 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ![Performance](performance.png)
 
-* Net Revenue: £741.9K
-* Total Trips: 31.7K
-* Delay Rate: 7.2%
-* Total Refund: £38.7K
+This dashboard provides a high-level overview of business performance, including total revenue, total trips, delay rate, and refunds. It helps monitor overall system efficiency and key performance indicators.
 
 ---
 
@@ -53,9 +58,7 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ![Sales](sales.png)
 
-* Total Revenue reached £1M
-* Online purchases dominate
-* Discounts impact revenue
+This section analyzes revenue performance, highlighting total sales, average ticket price, and the impact of discounts and purchase channels on revenue.
 
 ---
 
@@ -63,8 +66,7 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ![Route](route.png)
 
-* Top performing routes identified
-* Delay distribution across routes
+This analysis focuses on route performance, identifying the most active routes, revenue distribution, and routes with high delays or operational issues.
 
 ---
 
@@ -72,8 +74,7 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ![Operational](operational.png)
 
-* On-time rate: 86.8%
-* Cancellation rate: 5.9%
+This dashboard evaluates operational efficiency, including delay rate, cancellation rate, and delay patterns across time and stations.
 
 ---
 
@@ -81,19 +82,18 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ![Customer](customer.png)
 
-* Online purchase rate: 58.5%
-* Railcard usage trends
+This section analyzes customer behavior, including purchase patterns, railcard usage, and variations in pricing across customer segments.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* Excel
-* SQL Server
-* Power BI
+* Excel (Data Cleaning & Preparation)
+* SQL Server (Database Design & Queries)
+* Power BI (Data Visualization & Dashboarding)
 
 ---
 
 ## 🚀 Conclusion
 
-This project demonstrates an end-to-end data analysis workflow from raw data to actionable insights.
+This project demonstrates an end-to-end data analysis workflow, from raw data cleaning and database design to building interactive dashboards that generate actionable insights.

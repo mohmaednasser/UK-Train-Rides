@@ -1,8 +1,8 @@
-# UK Train Rides 🚆
+# 🚆 UK Train Rides Analytics Dashboard
 
 End-to-end data analysis project covering data cleaning, modeling, SQL, and interactive dashboards using Power BI.
 
-# 🚆 UK Train Rides Analytics Dashboard
+---
 
 ## 📊 Project Overview
 
@@ -14,25 +14,25 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ### 🔹 ERD (Entity Relationship Diagram)
 
-![ERD](database/erd.png)
+![ERD](erd.png)
 
 ---
 
 ### 🔹 Schema Mapping
 
-![Schema](database/schema.png)
+![Schema](schema.png)
 
 ---
 
 ### 🔹 SQL Implementation
 
-![SQL](database/sql.png)
+![SQL](sql.png)
 
 ---
 
 ### 🔹 Data Preview
 
-![Table](database/table.png)
+![Table](table.png)
 
 ---
 
@@ -40,7 +40,7 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ### 🔹 Performance Overview
 
-![Performance](dashboard/performance.png)
+![Performance](performance.png)
 
 * Net Revenue: £741.9K
 * Total Trips: 31.7K
@@ -51,7 +51,7 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ### 🔹 Sales Analysis
 
-![Sales](dashboard/sales.png)
+![Sales](sales.png)
 
 * Total Revenue reached £1M
 * Online purchases dominate
@@ -61,7 +61,7 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ### 🔹 Route Analysis
 
-![Route](dashboard/route.png)
+![Route](route.png)
 
 * Top performing routes identified
 * Delay distribution across routes
@@ -70,7 +70,7 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ### 🔹 Operational Analysis
 
-![Operational](dashboard/operational.png)
+![Operational](operational.png)
 
 * On-time rate: 86.8%
 * Cancellation rate: 5.9%
@@ -79,14 +79,21 @@ This project analyzes UK train ride transactions to uncover insights about sales
 
 ### 🔹 Customer Insights
 
-![Customer](dashboard/customer.png)
+![Customer](customer.png)
 
 * Online purchase rate: 58.5%
 * Railcard usage trends
 
 ---
 
+## 🛠 Tools & Technologies
+
+* Excel
+* SQL Server
+* Power BI
+
+---
+
 ## 🚀 Conclusion
 
-End-to-end data analysis project covering data cleaning, database design, SQL, and interactive dashboards using Power BI.
-
+This project demonstrates an end-to-end data analysis workflow from raw data to actionable insights.

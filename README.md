@@ -1,39 +1,92 @@
 # UK Train Rides 🚆
 
-## Project Overview
-This project analyzes UK train rides data using **Power BI** to understand passenger demand, forecast future rides and revenue, and support business decision-making.
+End-to-end data analysis project covering data cleaning, modeling, SQL, and interactive dashboards using Power BI.
 
-The project covers the full data analysis lifecycle:
-- Data cleaning and preprocessing
-- Data modeling
-- Exploratory analysis
-- Forecasting
-- Dashboard design
-- Business insights and recommendations
+# 🚆 UK Train Rides Analytics Dashboard
 
-## Names of team members
-1- Mohamed Nasser Abd El Basset
-2- Ahmed Abdelrhman Hassan
-3- Youssef Ahmed Ibrahim
-4- Sara Basher Selem
-5- Tasneem Reda Gomaa
-6- Mariam Mohammed Abdelmalek
+## 📊 Project Overview
+
+This project analyzes UK train ride transactions to uncover insights about sales performance, customer behavior, delays, and operational efficiency.
 
 ---
-## Each member's responsibility
-- Project Lead: Mohamed Nasser
-- Data Cleaning & Preprocessing: (Sara Basher Selem)
-- Data Modeling: (Mariam Mohammed Abdelmalek)
-- DAX & Measures: (Ahmed Abdelrhman Hassan)
-- Dashboard Design: (Tasneem Reda Gomaa)
-- Presentation & Storytelling: (Mariam Mohammed Abdelmalek)
+
+## 🧩 Data Modeling
+
+### 🔹 ERD (Entity Relationship Diagram)
+
+![ERD](database/erd.png)
 
 ---
-## Instructor
-ENG: Kareem Bakly
+
+### 🔹 Schema Mapping
+
+![Schema](database/schema.png)
 
 ---
-## Google Drive link
-https://drive.google.com/drive/folders/1f4Lvbp_k5Z9-hT7aDdxxOjIz7PWDJXXU?usp=sharing
 
+### 🔹 SQL Implementation
+
+![SQL](database/sql.png)
+
+---
+
+### 🔹 Data Preview
+
+![Table](database/table.png)
+
+---
+
+## 📈 Dashboard Insights
+
+### 🔹 Performance Overview
+
+![Performance](dashboard/performance.png)
+
+* Net Revenue: £741.9K
+* Total Trips: 31.7K
+* Delay Rate: 7.2%
+* Total Refund: £38.7K
+
+---
+
+### 🔹 Sales Analysis
+
+![Sales](dashboard/sales.png)
+
+* Total Revenue reached £1M
+* Online purchases dominate
+* Discounts impact revenue
+
+---
+
+### 🔹 Route Analysis
+
+![Route](dashboard/route.png)
+
+* Top performing routes identified
+* Delay distribution across routes
+
+---
+
+### 🔹 Operational Analysis
+
+![Operational](dashboard/operational.png)
+
+* On-time rate: 86.8%
+* Cancellation rate: 5.9%
+
+---
+
+### 🔹 Customer Insights
+
+![Customer](dashboard/customer.png)
+
+* Online purchase rate: 58.5%
+* Railcard usage trends
+
+---
+
+## 🚀 Conclusion
+
+End-to-end data analysis project covering data cleaning, database design, SQL, and interactive dashboards using Power BI.
 
